@@ -15,7 +15,7 @@ function Footer() {
                 <LinkedinIcon />
                 </a>
                 <a href="https://www.instagram.com/devsuperior.ig/" target="_new">
-                <InstagramIcon />
+            <InstagramIcon />
                 </a>
            </div>
         </footer>
